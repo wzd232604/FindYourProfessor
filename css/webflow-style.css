@@ -2341,8 +2341,7 @@ p {
   z-index: auto;
   float: left;
   text-align: center;
-  background-image: linear-gradient(rgba(70, 120, 131, .55), rgba(70, 120, 131, .55)), url("../images/418.jpg");
-  background-position: 0 0, 50% 0;
+  background-image: linear-gradient(rgba(70, 120, 131, .55), rgba(70, 120, 131, .55)), var(--header-background);
   background-size: auto, 100% 100%;
   width: 500px;
   height: 400px;
@@ -2868,6 +2867,18 @@ p {
   bottom: -43%;
   left: 61%;
   right: 0%;
+}
+
+.link-block-2b {
+  background-color: rgba(249, 58, 58, .97);
+  background-image: url("../images/map-icon.png");
+  background-position: 0 0;
+  background-size: 100% 100%;
+  width: 30px;
+  height: 45px;
+  position: relative;
+  top: 80px;
+  left: 410px;
 }
 
 .link-block-3 {

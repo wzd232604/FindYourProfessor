@@ -16,7 +16,7 @@ The second section provides a search engine and a selection box for users. Users
 ![](/report/image-2.png)
 **3. map section**
 The third section provides an overview of all the rooms in the Jishi Building where the School of Software is located. Users can click on **red pin** of the corresponding room on the map in the guide interface. Once you have found a room, you can click on it jump to the corresponding room page and to get a brief description of the current location, including the location, opening hours, and contact phone number, etc. 
-![alt text](image-3.png)
+![](/report/image-3.png)
 **4. Room section**
 The fourth section provides an overview of all the rooms in different types. We designed four parts which basically covers all kinds of rooms in the fourth floor. Here we designed a small animation, when the mouse is hovering above a certain room, the picture would bouce a bit and indicate you to click on it and jump to the specific page. 
 ![](/report/image-4.png)

@@ -2,9 +2,7 @@
 By 2252551 Junyi Xu & 2151422 Zhiduo Wu
 
 ## 1. Web-page Introduction
-This is an indoor navigation web-page of Jishi building in Tongji University specially designed for students of software engineering college, which provides the main functions including the floor guide of the Jishi Building and a quick overview of information (whole map, college faculty, and professors'profiles etc.).. You can click into the room you are
-				searching for and find out which professors are working there or you can search the professor’ s name to
-				find out his/her work place.
+This is an indoor navigation web-page of Jishi building in Tongji University specially designed for students of software engineering college, which provides the main functions including the floor guide of the Jishi Building and a quick overview of information (whole map, college faculty, and professors'profiles etc.)
 ## 2. Specific design
 ### 2.1 The home page
 **1. intro section**

@@ -34,3 +34,13 @@ Every room has a exclusive page including a **GO HOME** button which can lead us
 ![](/report/1.gif)
 ## 4. Usage
 By downloading the zip file and open it inside VScode or Pycharm, and *Go live* for the **index.html**, you can start this web-page with the home page.
+## 5.Fluid Navigation principle description
+1. Provide context-aware navigation: By displaying the floor plan of Jishi Building on the homepage and displaying pictures of each room on subsequent pages, users can clearly understand the positional relationship between the rooms.
+2. Provide a variety of navigation methods: Users can click on the room icon on the floor plan, enter keywords through the search box, or click on each room image on the homepage to quickly find the room or person they need in various ways.
+3. Support users to explore and review: The webpage provides maps, images, and settings buttons, allowing users to return to the homepage and view other rooms at any time. At the same time, the detailed information page displays a list of people in the room, making it convenient for users to view. At the end of the webpage, some photos and personal information pages of college teachers are also displayed for users to refer to.
+4. Keep the interface clear: By integrating map icons, room images, settings icons, and search boxes on the homepage, users can clearly view all rooms. In the room detail card, only display information related to the room to avoid distractions.
+5. Provide feedback: When the user clicks on the room icon, image or search box, selection box search (not yet implemented), the page will immediately jump to the corresponding room detailed information card. In addition, when the user clicks on the room type, the page will automatically slide to the corresponding room type image. The user clicking on the teacher's email icon will redirect to the teacher's personal information homepage, and clicking on the author's email at the end of the page will automatically redirect to the email address, and so on.
+6. Keeping the interface consistent: The top and bottom navigation bars and detail room card are essentially the same and have clear guidelines in the design diagram above. The goal is to ensure that the layout, naming, and appearance of the navigation bars are consistent throughout the application or in order to provide a uniform, clear and unambiguous user experience.
+
+   
+With the above design solution and the principle of fluid navigation, we can provide users with a simple and efficient webpage for guiding the 4th floor of the Jishi Building. users can easily visit each room in the webpage and understand the room usage and personnel.

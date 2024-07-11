@@ -45,4 +45,4 @@ By downloading the zip file and open it inside VScode or Pycharm, and *Go live* 
    
 With the above design solution and the principle of fluid navigation, we can provide users with a simple and efficient webpage for guiding the 4th floor of the Jishi Building. users can easily visit each room in the webpage and understand the room usage and personnel.
 
-GitHub address: https://github.com/ryl1ie/FindYourProfessor
+GitHub address: https://github.com/wzd232604/FindYourProfessor
